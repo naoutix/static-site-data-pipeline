@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-30T11:05:01.259Z",
+    "generatedAt": "2026-09-01T10:57:55.774Z",
     "storefrontOk": false,
     "rsiOk": true,
     "shipMatrixOk": true,
@@ -3071,9 +3071,9 @@
       "packConcierge": false,
       "concept": false,
       "wikiUrl": "https://starcitizen.tools/Aurora_Mk_I_CL",
-      "auec": 969570,
-      "loc": "New Deal Lorville",
-      "ratio": 21546
+      "auec": null,
+      "loc": null,
+      "ratio": null
     },
     {
       "name": "RSI Aurora Mk I ES",
@@ -3084,9 +3084,9 @@
       "packConcierge": false,
       "concept": false,
       "wikiUrl": "https://starcitizen.tools/Aurora_Mk_I_ES",
-      "auec": 402192,
-      "loc": "New Deal Lorville",
-      "ratio": 20109.6
+      "auec": null,
+      "loc": null,
+      "ratio": null
     },
     {
       "name": "RSI Aurora Mk I LN",
@@ -3097,9 +3097,9 @@
       "packConcierge": false,
       "concept": false,
       "wikiUrl": "https://starcitizen.tools/Aurora_Mk_I_LN",
-      "auec": 861840,
-      "loc": "New Deal Lorville",
-      "ratio": 21546
+      "auec": null,
+      "loc": null,
+      "ratio": null
     },
     {
       "name": "RSI Aurora Mk I LX",
@@ -3110,9 +3110,9 @@
       "packConcierge": false,
       "concept": false,
       "wikiUrl": "https://starcitizen.tools/Aurora_Mk_I_LX",
-      "auec": 653562,
-      "loc": "New Deal Lorville",
-      "ratio": 18673.2
+      "auec": null,
+      "loc": null,
+      "ratio": null
     },
     {
       "name": "RSI Aurora Mk I MR",
@@ -3123,9 +3123,9 @@
       "packConcierge": false,
       "concept": false,
       "wikiUrl": "https://starcitizen.tools/Aurora_Mk_I_MR",
-      "auec": 646380,
-      "loc": "New Deal Lorville",
-      "ratio": 21546
+      "auec": null,
+      "loc": null,
+      "ratio": null
     },
     {
       "name": "RSI Aurora Mk I SE",
@@ -3149,8 +3149,8 @@
       "packConcierge": false,
       "concept": false,
       "wikiUrl": "https://starcitizen.tools/Aurora_Mk_II",
-      "auec": null,
-      "loc": null,
+      "auec": 904932,
+      "loc": "New Deal Lorville",
       "ratio": null
     },
     {
