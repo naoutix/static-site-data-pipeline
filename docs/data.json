@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-02T10:26:55.769Z",
+    "generatedAt": "2026-09-03T10:33:42.136Z",
     "storefrontOk": false,
     "rsiOk": true,
     "shipMatrixOk": true,
@@ -1797,9 +1797,9 @@
       "packConcierge": true,
       "concept": false,
       "wikiUrl": "https://starcitizen.tools/Golem_Ox",
-      "auec": null,
-      "loc": null,
-      "ratio": null
+      "auec": 1149120,
+      "loc": "New Deal Lorville",
+      "ratio": 12768
     },
     {
       "name": "Drake Herald",
@@ -1830,10 +1830,10 @@
     {
       "name": "Drake Ironclad Assault",
       "pledge": 650,
-      "available": true,
-      "packageOnly": false,
-      "packName": null,
-      "packConcierge": false,
+      "available": false,
+      "packageOnly": true,
+      "packName": "Praetorian Pack",
+      "packConcierge": true,
       "concept": false,
       "wikiUrl": "https://starcitizen.tools/Ironclad_Assault",
       "auec": null,
@@ -2077,10 +2077,10 @@
     {
       "name": "Greycat MTC",
       "pledge": 50,
-      "available": true,
-      "packageOnly": false,
-      "packName": null,
-      "packConcierge": false,
+      "available": false,
+      "packageOnly": true,
+      "packName": "Legatus 2955 Addendum",
+      "packConcierge": true,
       "concept": false,
       "wikiUrl": "https://starcitizen.tools/MTC",
       "auec": 75600,
@@ -3273,8 +3273,8 @@
     {
       "name": "RSI Hermes",
       "pledge": 220,
-      "available": true,
-      "packageOnly": false,
+      "available": false,
+      "packageOnly": true,
       "packName": null,
       "packConcierge": false,
       "concept": false,
@@ -3338,10 +3338,10 @@
     {
       "name": "RSI Perseus",
       "pledge": 800,
-      "available": true,
-      "packageOnly": false,
-      "packName": null,
-      "packConcierge": false,
+      "available": false,
+      "packageOnly": true,
+      "packName": "Multicrew Pack",
+      "packConcierge": true,
       "concept": false,
       "wikiUrl": "https://starcitizen.tools/Perseus",
       "auec": 39690000,
